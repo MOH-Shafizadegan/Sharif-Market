@@ -8,7 +8,9 @@ public class CustomerMain {
         System.out.println("            *******************************************");
         System.out.println("            *********       Sharif Market     *********");
         System.out.println("            *******************************************\n");
-        System.out.println("            <<<<<<<<    Customers Panel    >>>>>>>>>\n");
+        System.out.println("            <<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>");
+        System.out.println("            <<<<<<<<    Customers Panel    >>>>>>>>>");
+        System.out.println("            <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>\n");
         System.out.println("Enter your command: ");
         System.out.println("Attention: You should sign in first.");
         String command = scanner.nextLine();
